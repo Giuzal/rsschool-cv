@@ -54,3 +54,23 @@ function peak(arr) {
 }
 ```
 
+#### Courses:
+
+rs-school stage 1
+
+#### Languages:
+
+| Language | Level |
+| ----------- | ----------- |
+| English    | upper-Intermediate   |
+| German   | beginner  |
+| Turkey  | beginner  |
+| Kyrgyz   | native   |
+| Russian    | native   |
+| JavaScript  | working on it   |
+
+***
+#### Подкат ❤️‍🔥
+
+> Ты случайно не html? Потому что без тебя я ://
+
