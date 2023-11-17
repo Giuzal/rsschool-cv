@@ -1,0 +1,1 @@
+Just task for rs-school CV-1
