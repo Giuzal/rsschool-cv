@@ -29,4 +29,28 @@ Programming always seemd like a magic for me. In the modern world everything can
 
 I belive people can do great wonderful things with a computer science. And *I want to be a part of this process.*
 
+***
+
+#### Skills and Proficiency:
+
+- HTML5, CSS3
+- Git, GitHub
+- JavaScript Basics
+***
+
+#### Code example:
+
+```
+function peak(arr) {
+
+  for (let i = 1; i < arr.length - 1; i++) {
+    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
+    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
+    if (leftSum === rightSum) {
+      return i;
+    }
+  }
+  return -1;
+}
+```
 
