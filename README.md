@@ -1,1 +1,1 @@
-Just task for rs-school CV-1
+https://Giuzal.github.io/rsschool-cv/cv
